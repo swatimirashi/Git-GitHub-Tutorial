@@ -24,3 +24,9 @@ git clone https://github.com/yourname/repo-name.git
 git add .
 git commit -m "your message"
 git push
+
+
+## 🎯 Presentation Link
+
+📽️ **Watch the full presentation here:**  
+🔗 https://lnk.ink/S3XzR
