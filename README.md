@@ -29,4 +29,4 @@ git push
 ## 🎯 Presentation Link
 
 📽️ **Watch the full presentation here:**  
-🔗 https://lnk.ink/S3XzR
+[🔗 Click here to view the Git and GitHub Tutorial Presentation](https://lnk.ink/S3XzR)
