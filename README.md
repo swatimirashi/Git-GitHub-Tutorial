@@ -23,10 +23,10 @@ git config --global user.email "your-email"
 git clone https://github.com/yourname/repo-name.git
 git add .
 git commit -m "your message"
-git push
+git push```
 
 
-# 🎯 Presentation Link
+## 🎯 Presentation Link
 
 📽️ **Watch the full presentation here:**  
 [🔗 Click here to view the Git and GitHub Tutorial Presentation](https://lnk.ink/S3XzR)
