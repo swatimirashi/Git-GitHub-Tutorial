@@ -26,7 +26,7 @@ git commit -m "your message"
 git push
 
 
-## 🎯 Presentation Link
+# 🎯 Presentation Link
 
 📽️ **Watch the full presentation here:**  
 [🔗 Click here to view the Git and GitHub Tutorial Presentation](https://lnk.ink/S3XzR)
